@@ -4,4 +4,7 @@ rpg_in_gis_space/Library/PackageCache/com.unity.burst@1.8.2/.Runtime/burst-llvm-
 rpg_in_gis_space/Library/PackageCache/com.unity.burst@1.8.2/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
 rpg_in_gis_space/Library/PackageCache/com.unity.burst@1.8.2/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
 rpg_in_gis_space/Library/PackageCache/com.unity.burst@1.8.2/.Runtime/libburst-llvm-14.dylib filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 rpg_in_gis_space/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> main
